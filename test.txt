@@ -4,3 +4,4 @@ gpg test by mac
 2
 3
 4
+gpg test by fixed macbook
