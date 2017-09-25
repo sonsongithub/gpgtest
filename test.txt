@@ -7,3 +7,4 @@ gpg test by mac
 gpg test by fixed macbook
 gpg test by fixed macbook2
 gpg test by fixed imac
+gpg test by fixed macpro
