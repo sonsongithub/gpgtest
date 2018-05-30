@@ -9,3 +9,4 @@ gpg test by fixed macbook2
 gpg test by fixed imac
 gpg test by fixed macpro
 gpg test from imac
+gpt test from imac
